@@ -9,9 +9,12 @@ Repositório para armazenar resumos do Git e GitHub do curso Versionamento de c�
 -[Documentação GitHub](https://docs.github.com?)
 
 ## 💻 Resumos das Aulas
-| Aulas | Resumos|
-|---------|----------|
-|Gravando Alterações no Repositório Local | Link dos Resumos
+| Aulas | 
+|---------|
+|Aula 1|
+|Gravando Alterações no Repositório Local |
+|Aula 2|
+| Link dos Resumos
 
 ```
 git init
